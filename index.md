@@ -5,6 +5,7 @@
 
 ### Git
 - Squishing comments in the development branch while merging to the master
+
 ```
   1. git checkout master
   2. git merge --squash <feature-branch>
