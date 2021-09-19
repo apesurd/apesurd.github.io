@@ -12,4 +12,4 @@
   3. git commit -m 'Commit message'
 ```
 
-(Link to another file)[git_make_change_commit]
+[Link to another file](git_make_change_commit)
