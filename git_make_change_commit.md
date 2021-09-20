@@ -9,4 +9,4 @@
 git commit --amend "new commit message"
 ```
 
-{% include other_footer.md %}
+{% include footer.html %}
