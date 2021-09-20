@@ -1,4 +1,4 @@
 ---
 ---
 
-This is the footer of the page.
+This is the other footer of the page.
