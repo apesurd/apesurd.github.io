@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Index
 ---
 ## My Cheat Sheet
 
