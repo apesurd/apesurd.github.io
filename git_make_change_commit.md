@@ -11,4 +11,3 @@ title: Subheading
 git commit --amend "new commit message"
 ```
 
-{% include footer.html %}
