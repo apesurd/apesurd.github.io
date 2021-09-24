@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Subheading
+title: Changing the commit message
 ---
 
-# Heading for another page
-
-## Subheading
+## Changing commit message
 
 ```bash
 git commit --amend "new commit message"
 ```
-
