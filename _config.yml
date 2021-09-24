@@ -21,8 +21,7 @@
 title: Mayank Saraswat
 email: mayanksaraswat333@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my little space. Here I keep quick code snippets for the stuff
-  I come across frequently.
+    Programming \ Machine Learning \ Music \ Quantitative Finance
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Mayaank
@@ -42,6 +41,11 @@ header_pages:
 
 minima:
   skin: dark
+
+collections:
+  git:
+    output: true
+    permalink: /git/:path/
 
 
 # Exclude from processing.
