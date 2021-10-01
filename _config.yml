@@ -46,7 +46,9 @@ collections:
   git:
     output: true
     permalink: /git/:path/
-
+  docker:
+    output: true
+    permalink: /docker/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
