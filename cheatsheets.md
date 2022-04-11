@@ -19,4 +19,10 @@ title: Cheatsheets
 
 ---
 
-# Python
+# Linux
+
+<ol>{% for collection in site.linux %}
+<li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
+{% endfor %}</ol>
+
+---

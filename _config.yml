@@ -49,6 +49,10 @@ collections:
   docker:
     output: true
     permalink: /docker/:path/
+  linux:
+    output: true
+    permalink: /linux/:path/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
