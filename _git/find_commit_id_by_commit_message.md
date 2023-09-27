@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Find commit-id by commit message
 ---
 

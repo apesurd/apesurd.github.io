@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Changing the commit message
 ---
 
