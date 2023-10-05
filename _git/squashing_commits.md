@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: Squashing Commits
 ---
 
-## Squishing comments
 ### while merging a feature branch to the master
 
 ```

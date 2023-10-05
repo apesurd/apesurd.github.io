@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: single
 title: Find commit-id by commit message
+tag: git
 ---
-
-## Find commit-id by grepping commit message 
 
 ```bash
 git log --grep="{YOUR_KEYWORD}" 

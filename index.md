@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About Me
+layout: home
+author_profile: true
 ---
 
-This page tells you a little bit about me

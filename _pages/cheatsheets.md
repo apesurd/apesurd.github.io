@@ -1,9 +1,12 @@
 ---
-layout: default
-title: Cheatsheets
+layout: single
+show_date: false
+read_time: false
+title: "Cheat Sheets"
+permalink: /cheatsheets/
 ---
 
-# Git
+## Git
 
 <ol>{% for collection in site.git %}
 <li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
@@ -11,7 +14,7 @@ title: Cheatsheets
 
 ---
 
-# Docker
+## Docker
 
 <ol>{% for collection in site.docker %}
 <li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
@@ -19,7 +22,7 @@ title: Cheatsheets
 
 ---
 
-# Linux
+## Linux
 
 <ol>{% for collection in site.linux %}
 <li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
