@@ -1,31 +1,8 @@
 ---
-layout: single
-show_date: false
-read_time: false
-title: "Cheat Sheets"
+title: Cheatsheets 
+layout: collection 
 permalink: /cheatsheets/
----
+entries_layout: grid 
+classes: wide
+--- 
 
-## Git
-
-<ol>{% for collection in site.git %}
-<li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
-{% endfor %}</ol>
-
----
-
-## Docker
-
-<ol>{% for collection in site.docker %}
-<li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
-{% endfor %}</ol>
-
----
-
-## Linux
-
-<ol>{% for collection in site.linux %}
-<li><a href="{{ collection.url }}">{{ collection.title }}</a></li>
-{% endfor %}</ol>
-
----

@@ -307,12 +307,15 @@ defaults:
       related: true
 
 collections:
-  git:
+  cheatsheets:
     output: true
-    permalink: /cheatsheets/:collection/:path/
-  docker:
-    output: true
-    permalink: /cheatsheets/:collection/:path/
-  linux:
-    output: true
-    permalink: /cheatsheets/:collection/:path/
+    permalink: :collection/:path/
+      #  git:
+      #    output: true
+      #    permalink: /cheatsheets/:collection/:path/
+      #  docker:
+      #    output: true
+      #    permalink: /cheatsheets/:collection/:path/
+      #  linux:
+      #    output: true
+      #    permalink: /cheatsheets/:collection/:path/
