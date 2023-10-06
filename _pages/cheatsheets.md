@@ -1,9 +1,10 @@
 ---
-title: Cheatsheets 
+title: CheatSheets 
 layout: collection 
 permalink: /cheatsheets/
-entries_layout: grid 
-author_profile: false
+collection: cheatsheets
+entries_layout: list 
 classes: wide
+author_profile: false
 --- 
 
