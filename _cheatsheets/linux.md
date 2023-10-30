@@ -1,6 +1,6 @@
 ---
 layout: single
-title: linux cheatsheet
+title: Linux
 ---
 
 ## Deleting files recursively from all the subdirectories

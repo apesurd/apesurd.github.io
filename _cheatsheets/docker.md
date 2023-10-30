@@ -1,6 +1,6 @@
 ---
 layout: single
-title: docker cheatsheet
+title: Docker
 ---
 
 ## Opening up bash inside the docker container

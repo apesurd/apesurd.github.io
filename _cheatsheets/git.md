@@ -1,9 +1,21 @@
 ---
 layout: single
-title: Find commit-id by commit message
-tag: git
+title: Git
 ---
 
+## Changing the commit message
+```bash
+git commit --amend "new commit message"
+```
+
+## Squash feature-branch changes to master
+```bash
+  1. git checkout master
+  2. git merge --squash <feature-branch>
+  3. git commit -m 'Commit message'
+```
+
+## Find commit-id by commit message
 ```bash
 git log --grep="{YOUR_KEYWORD}" 
 ```
