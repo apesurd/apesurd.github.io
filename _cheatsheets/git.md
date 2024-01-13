@@ -24,3 +24,9 @@ git log --grep="{YOUR_KEYWORD}"
 - It is possible to specify multiple `--grep` option in a single command.
   - By default, it would lookup for the commits where atleast one of the keywords matches. 
   - to match all given grep patterns, include the option `--all-match` in the command. 
+
+## Count number of commits
+```bash
+git rev-list --count HEAD
+```
+

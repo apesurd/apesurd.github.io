@@ -13,3 +13,18 @@ find {dir} -type f -name <filepattern>
 find {dir} -type d -name "subdir_name" -exec echo rm -rf {} \;
 ```
 
+## Writing text to a file from terminal
+
+### Single line
+```bash
+echo "Content goes here" > filename
+```
+
+### Multi line
+```bash
+cat << EOF > filename
+line1 
+line2 
+EOF
+```
+
