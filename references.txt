@@ -1,0 +1,2 @@
+example website using mm:
+https://mmistakes.github.io/minimal-mistakes/collection-archive/
