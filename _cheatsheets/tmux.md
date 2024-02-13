@@ -6,8 +6,11 @@ title: tmux
 Tmux is a terminal multiplexer. It allows you to have multiple
 terminal windows in a single terminal.
 
+## List down all active tmux sessions
+> `tmux list-sessions`
+
 ## To invoke tmux command inside tmux session
-> <Ctrl>+a 
+> `<Ctrl>+a` 
 
 ## Showing the list of active sessions
 > :ls  (when inside another session)
