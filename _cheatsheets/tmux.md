@@ -13,28 +13,28 @@ terminal windows in a single terminal.
 > `<Ctrl>+a` 
 
 ## Showing the list of active sessions
-> :ls  (when inside another session)
+> `:ls ` (when inside another session)
 
 ## Start a new session
-> :new
+> `:new`
 
 ## Detaching a tmux session 
-> :detach OR <Ctrl>+a d
+> `:detach` OR `<Ctrl>+a d`
 
 ## Kill a tmux session
-> :kill-session
+> `:kill-session`
 
 ## Attach to a tmux session
-> tmux a -t mysession
+> `tmux a -t mysession`
 
 ## Create a window in the session 
-> <Ctrl>+a c 
+> `<Ctrl>+a c `
 
 ## List windows in the current session 
-> <Ctrl>+a w
+> `<Ctrl>+a w`
 
 ## Rename current window
-> <Ctrl>+a ,
+> `<Ctrl>+a ,`
 
 # My local configuration in .zshrc
 I have configured my zsh to open a project in a tmux session, with neovim as the editor
