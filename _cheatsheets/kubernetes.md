@@ -3,6 +3,9 @@ layout: single
 title: Kubernetes
 ---
 
+An open-source container orchestration platform. Automates deployment, scaling, and management of containerized applications.
+Provides a framework to run distributed systems resiliently and efficiently.
+
 ## Basics
 
 ### Kubernetes Components
