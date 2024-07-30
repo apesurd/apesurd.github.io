@@ -311,4 +311,8 @@ collections:
   cheatsheets:
     output: true
     permalink: /:collection/:path/
+  book_summaries:
+    output: true
+    permalink: /:collection/:path/
+
 
