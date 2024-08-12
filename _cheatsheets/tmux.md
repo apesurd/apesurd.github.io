@@ -7,16 +7,22 @@ Tmux is a terminal multiplexer. It allows you to have multiple
 terminal windows in a single terminal.
 
 ## List down all active tmux sessions
+### Outside tmux
 > `tmux list-sessions`
+> `tmux ls`
+
+### Inside tmux
+> `:ls ` (when inside another session)
 
 ## To invoke tmux command inside tmux session
 > `<Ctrl>+a` 
 
-## Showing the list of active sessions
-> `:ls ` (when inside another session)
-
 ## Start a new session
+### Inside tmux
 > `:new`
+
+### Outside tmux
+> `tmux new -s <session-name>`
 
 ## Detaching a tmux session 
 > `:detach` OR `<Ctrl>+a d`
@@ -35,6 +41,30 @@ terminal windows in a single terminal.
 
 ## Rename current window
 > `<Ctrl>+a ,`
+
+## Move across windows in Tmux
+### Move left
+> `<Ctrl>+a h`
+
+### Move right
+> `<Ctrl>+a l`
+
+### Move up
+> `<Ctrl>+a k`
+
+### Move down
+> `<Ctrl>+a j`
+
+## Maximize current window 
+> `<Ctrl>+a m`
+
+## Splitting window in half
+### Vertical
+> `<Ctrl>+a |`
+
+### Horizontal
+> `<Ctrl>+a -`
+
 
 # My local configuration in .zshrc
 I have configured my zsh to open a project in a tmux session, with neovim as the editor
