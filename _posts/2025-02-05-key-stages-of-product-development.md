@@ -2,6 +2,7 @@
 layout: single
 author: Mayank
 title: From Sketch to Scale - Key Stages of Product Development
+description: Framework to build a product from an initial idea to a market-ready solution. PoC, MVP, MLP, etc.
 ---
 
 Building a product from an initial idea to a full-scale, market-ready solution requires careful planning, validation, and iteration.
@@ -58,7 +59,7 @@ We can create a clickable mockup using tools like Figma that demonstrates basic 
 Gather feedback from the internal team and potential users, then iterate on the model based on their needs.
 The focus here is to ensure clarity regarding what we plan to build based on user experience.
 
-## 3. MVE - Market Testing Before MVP
+## 3. MVE (Minimum Viable Experiment) - Market Testing Before MVP
 **Purpose**: Validate market demand before committing to development
 **Focus**: Quick, small-scale experiments to test assumptions
 **Audience**: Potential customers
@@ -71,7 +72,7 @@ For e.g. we can target facebook marketplace, put up QR codes around our locality
 Track how many people sign up or express interest in using the platform. 
 If there is enough traction, it's worth moving to the next stage - the MVP.
 
-## 4. MVP - Functional Core Product
+## 4. MVP (Minimum Viable Product) - Functional Core Product
 **Purpose**: Launch a working version with only essential features to test market response.
 **Focus**: Functionality over perfection, solving the core problem.
 **Audience**: Early adopters, beta users.
@@ -86,7 +87,7 @@ Launch the app.
 Actively listen to user feedback—what they like and what they do not.
 Reach out to those who showed interest by signing up on the waitlist and invite them to join the beta testing phase.
 
-## 5. MLP - Early Product with Delight
+## 5. MLP (Minimum Lovable Product) - Early Product with Delight
 **Purpose**: Go beyond an MVP by making it engaging and enjoyable, increasing user retention.
 **Focus**: Adding elements that make users love the product, not just use it.
 **Audience**: Broader early adopters and product enthusiasts.
@@ -104,7 +105,7 @@ For example, we can add features like:
 5. Support for multiple payment methods.
 6. Support for pickup and drop. 
 
-## 6. MMP - Ready for Wider Market
+## 6. MMP (Minimum Marketable Product) - Ready for Wider Market
 **Purpose**: Ensure the product is refined enough for a wider release and monetization.
 **Focus**: Stability, scalability, and readiness for broader adoption.
 **Audience**: Larger customer base, general users.
