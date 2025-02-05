@@ -19,7 +19,7 @@ Understanding these key stages of product development can help us make informed 
 Each stage minimizes risk, validates assumptions, and creates a product that truly resonates with users.
 If the product doesn't perform well at any stage, it signals a need to revisit the drawing board and potentially pivot.
 
-To paint a picture of the process, let's walk through a hypothetical example of a peer-to-peer rental marketplace that allows people to rent everyday items one another.
+To paint a picture of the process, let's walk through a hypothetical example of a peer-to-peer rental marketplace that allows people to rent everyday items with one another.
 
 
 ## 1. Proof of Concept (PoC) - Feasibilily Validation
