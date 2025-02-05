@@ -3,7 +3,6 @@ layout: single
 author: Mayank
 ---
 
-# Invoice Discounting
 
 ## Intro
 Financial service that helps companies get access to cash-flow tied up in unpaid invoices.
