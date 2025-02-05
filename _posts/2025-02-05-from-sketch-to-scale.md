@@ -1,7 +1,7 @@
 ---
 layout: single
 author: Mayank
-title: From Sketch to Scale: Key Stages of Product Development
+title: From Sketch to Scale - Key Stages of Product Development
 ---
 
 Building a product from an initial idea to a full-scale, market-ready solution requires careful planning, validation, and iteration.
