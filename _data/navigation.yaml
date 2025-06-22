@@ -1,4 +1,6 @@
 main:
+- title: "Blogs"
+  url: /posts/
 - title: "CheatSheets"
   url: /cheatsheets/
 - title: "BookSummaries"

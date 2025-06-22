@@ -8,8 +8,8 @@ classes: wide
 author_profile: true
 share: false
 related: true
-read_time: true
-toc: true
+read_time: false
+show_date: false
 --- 
 
 

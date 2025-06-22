@@ -225,6 +225,8 @@ sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# enable copying from code blocks
+enable_copy_code_button: true
 
 # Outputting
 permalink: /:categories/:title/
@@ -311,7 +313,6 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
-      enable_copy_code_button: true
   - scope:
       path: "_pages"
       type: pages
@@ -326,7 +327,6 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
-      enable_copy_code_button: true
   - scope:
       path: "_cheatsheets"
       type: cheatsheets
@@ -341,7 +341,6 @@ defaults:
       related: false
       toc: true
       toc_sticky: true
-      enable_copy_code_button: true
   - scope:
       path: "_book-summaries"
       type: book-summaries
@@ -356,7 +355,6 @@ defaults:
       related: false
       toc: true
       toc_sticky: true
-      enable_copy_code_button: true
 
 collections:
   cheatsheets:
