@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Linux
+excerpt: Some useful commands for Linux
 ---
 
 ## Finding file satisfying a pattern

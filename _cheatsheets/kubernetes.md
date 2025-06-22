@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Kubernetes
+excerpt: Kubernetes is an open-source container orchestration platform.
 ---
 
 An open-source container orchestration platform. Automates deployment, scaling, and management of containerized applications.

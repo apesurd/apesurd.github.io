@@ -1,6 +1,7 @@
 ---
-layout: single
 title: Git
+excerpt: Git is a distributed version control system. 
+toc_sticky: true
 ---
 
 ## Changing the commit message

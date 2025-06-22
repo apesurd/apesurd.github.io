@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Docker
+excerpt: Docker lets you package applications with their dependencies into portable containers. It simplifies building, shipping, and running software.
 ---
 
 ## Opening up bash inside the docker container

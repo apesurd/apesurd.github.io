@@ -5,6 +5,7 @@ permalink: /cheatsheets/
 collection: cheatsheets
 entries_layout: list 
 classes: wide
-author_profile: false
+author_profile: true
+toc: true
 --- 
 

@@ -1,8 +1,6 @@
 ---
-layout: single
-author: Mayank
-title: From Sketch to Scale - Key Stages of Product Development
-description: Framework to build a product from an initial idea to a market-ready solution. PoC, MVP, MLP, etc.
+title: From Sketch to Scale
+excerpt: Framework to build a product from an initial idea to a market-ready solution. PoC, MVP, MLP, etc.
 ---
 
 Building a product from an initial idea to a full-scale, market-ready solution requires careful planning, validation, and iteration.

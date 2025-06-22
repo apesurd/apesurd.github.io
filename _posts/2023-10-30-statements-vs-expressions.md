@@ -1,6 +1,5 @@
 ---
-layout: single
-author: Mayank
+title: Statements vs Expressions
 ---
 
 > "The difference between the right word and almost the right word is the difference between lightning and a lightening bug." - Mark Twain

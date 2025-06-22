@@ -1,8 +1,6 @@
 ---
-layout: single
-author: Mayank
-title: Which typeface is the best for reading? Serif or Sans-serif?
-description: Which typeface is the best for reading? Serif or Sans-serif?the ideal font for reading should optimize legibility, readability, and overall comfort for long reading sessions.
+title: Best typeface for reading
+excerpt: Which typeface is the best for reading? Serif or Sans-serif? The ideal font for reading should optimize legibility, readability, and overall comfort for long reading sessions.
 ---
 
 I have never given much thought to the font-style on my reading devices. I do tweak the settings occasionally, but it’s always been a matter of trial and error — never a conscious choice.

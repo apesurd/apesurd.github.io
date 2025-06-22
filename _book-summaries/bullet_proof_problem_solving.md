@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Thinking Fast and Slow
+title: Bullet Proof Problem Solving 
+excerpt: By Charles Conn, Robert McLean . Published in 2019 . 320 pages
 ---
 
 # Title

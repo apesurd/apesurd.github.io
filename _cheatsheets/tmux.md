@@ -1,10 +1,9 @@
 ---
-layout: single
 title: tmux
+excerpt: tmux is a terminal multiplexer
 ---
 
-Tmux is a terminal multiplexer. It allows you to have multiple
-terminal windows in a single terminal.
+Tmux is a terminal multiplexer. It allows you to have multiple terminal windows in a single terminal.
 
 ## List down all active tmux sessions
 ### Outside tmux

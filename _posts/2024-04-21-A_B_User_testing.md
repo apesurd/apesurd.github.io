@@ -1,6 +1,4 @@
 ---
-layout: single
-author: Mayank
 title: "A/B User testing"
 ---
 

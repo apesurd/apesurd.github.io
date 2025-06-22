@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Vim
+excerpt: Some useful commands for Vim
 ---
 
 # Standard

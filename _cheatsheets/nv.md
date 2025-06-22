@@ -1,6 +1,6 @@
 ---
-layout: single
 title: uv
+excerpt: uv is a fast package and program manager for Python
 ---
 
 `uv` is a fast package and program manager for Python. It's a drop-in replacement for pip and virtualenv, written in Rust.

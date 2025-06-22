@@ -1,6 +1,6 @@
 ---
-layout: single
-author: Mayank
+title: Invoice Discounting
+excerpt: Invoice discounting is a financial service that allows businesses to get access to cash-flow tied up in unpaid invoices.
 ---
 
 

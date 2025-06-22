@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Thinking Fast and Slow
+excerpt: By Daniel Kahneman . Published in 2011 . 499 pages
 ---
 
 # Title

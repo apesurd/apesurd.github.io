@@ -1,5 +1,5 @@
 main:
 - title: "CheatSheets"
   url: /cheatsheets/
-- title: "Book Summaries"
-  url: /book_summaries/
+- title: "BookSummaries"
+  url: /book-summaries/
