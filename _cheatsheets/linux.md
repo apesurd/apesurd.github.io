@@ -8,7 +8,7 @@ excerpt: Some useful commands for Linux
 find {dir} -type f -name <filepattern>
 ```
 
-## Deleting files recursively from all the subdirectories
+## Deleting files recursively 
 ```bash
 find {dir} -type d -name "subdir_name" -exec echo rm -rf {} \;
 ```

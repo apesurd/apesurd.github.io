@@ -7,62 +7,79 @@ Tmux is a terminal multiplexer. It allows you to have multiple terminal windows 
 
 ## List down all active tmux sessions
 ### Outside tmux
-> `tmux list-sessions`
-> `tmux ls`
+```bash
+tmux list-sessions
+tmux ls
+```
 
 ### Inside tmux
-> `:ls ` (when inside another session)
+when inside another session
+```
+:ls 
+``` 
 
 ## To invoke tmux command inside tmux session
 > `<Ctrl>+a` 
 
 ## Start a new session
 ### Inside tmux
-> `:new`
+```
+:new
+```
 
 ### Outside tmux
-> `tmux new -s <session-name>`
+```
+tmux new -s <session-name>
+```
 
 ## Detaching a tmux session 
-> `:detach` OR `<Ctrl>+a d`
+```
+:detach 
+```
+OR 
+`<Ctrl>+a d`
 
 ## Kill a tmux session
-> `:kill-session`
+```
+:kill-session
+```
 
 ## Attach to a tmux session
-> `tmux a -t mysession`
+```
+tmux a -t mysession
+```
 
 ## Create a window in the session 
-> `<Ctrl>+a c `
+`<Ctrl>+a c` 
 
 ## List windows in the current session 
-> `<Ctrl>+a w`
+`<Ctrl>+a w`
 
 ## Rename current window
-> `<Ctrl>+a ,`
+`<Ctrl>+a ,`
 
 ## Move across windows in Tmux
 ### Move left
-> `<Ctrl>+a h`
+`<Ctrl>+a h`
 
 ### Move right
-> `<Ctrl>+a l`
+`<Ctrl>+a l`
 
 ### Move up
-> `<Ctrl>+a k`
+`<Ctrl>+a k`
 
 ### Move down
-> `<Ctrl>+a j`
+`<Ctrl>+a j`
 
 ## Maximize current window 
-> `<Ctrl>+a m`
+`<Ctrl>+a m`
 
 ## Splitting window in half
 ### Vertical
-> `<Ctrl>+a |`
+`<Ctrl>+a |`
 
 ### Horizontal
-> `<Ctrl>+a -`
+`<Ctrl>+a -`
 
 
 # My local configuration in .zshrc

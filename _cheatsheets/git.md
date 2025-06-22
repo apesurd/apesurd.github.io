@@ -31,7 +31,9 @@ git log --grep="{YOUR_KEYWORD}"
 git rev-list --count HEAD
 ```
 
-## Set "main" as the default branch when init a new repo
+## Set "main" as the default branch 
+
+### When init a new repo
 ```bash
 git config --global init.defaultBranch main
 ```

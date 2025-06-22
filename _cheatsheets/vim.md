@@ -6,10 +6,10 @@ excerpt: Some useful commands for Vim
 # Standard
 
 ## Enclose a word, using single quotes.
-> :ciw '' <Esc> P
+`:ciw '' <Esc> P`
 
 ## List all the active buffers. 
-> :ls 
+`:ls `
 
 ## Navigation
 1. `k`: UP
