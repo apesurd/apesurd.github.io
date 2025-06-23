@@ -1,3 +1,7 @@
+---
+sitemap: false
+---
+
 0.
 0.1. Fill in posts 
 0.2. Check if we can generate blogs using jupyter notebook markdown.

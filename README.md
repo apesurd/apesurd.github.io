@@ -1,3 +1,7 @@
+---
+sitemap: false
+---
+
 # Read me file for the project
 
 ## Update the version of ruby. 
