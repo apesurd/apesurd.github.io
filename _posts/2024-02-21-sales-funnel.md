@@ -1,6 +1,8 @@
 ---
 title: Sales Funnel
 excerpt: A conceptual framework that represents the journey a potential customer takes from being aware of the product/service to making a purchase.
+tags:
+  - sales
 ---
 
 ## What is it? 
