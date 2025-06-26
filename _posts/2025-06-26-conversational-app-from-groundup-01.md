@@ -1,6 +1,6 @@
 ---
 title: Conversational App from Ground Up 
-excerpt: post excerpt
+excerpt: Trying my hand at building a conversational web-app from  the ground up using LLM APIs 
 tags:
     - LLM
     - AI
