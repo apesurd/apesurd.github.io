@@ -12,14 +12,14 @@ For some time now, I’ve been reading and learning about large language models 
 But at the end of the day, I’ve realized that nothing truly sticks unless one applies the concepts in a real-world project.
 
 So here I am, trying my hand at building a conversational web-app from  the ground up using LLM APIs. \
-The application would be a stripped down version of chat-gpt, without any bells and whistles, and would focus on the LLM capabilities. 
+The application would be a stripped down version of ChatGPT, without any bells and whistles, and would focus on the LLM capabilities. 
 
 Since I’m building as I go, I’ll continue updating this article with links to follow-up posts as this project evolves.
 
 > NOTE: Looking at how rapidly this space is evolving, I won't be surprised if this article gets outdated, or some code snippet doesn't work as expected. If that happens, feel free to reach out-or better yet, raise an issue on <a href="https://github.com/apesurd/ConversationalStack/tree/main" target="_blank">GitHub</a> 
 
 
-## How am am going about it? 
+## How am going about it? 
 
 The primary focus of this project is to explore how to use LLMs and associated tools to replicate the conversational capabilities of ChatGPT. \
 As UI/UX isn’t the primary focus here, I’m using Streamlit to quickly spin up a minimal chat web app.
