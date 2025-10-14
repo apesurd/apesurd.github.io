@@ -14,9 +14,9 @@ But at the end of the day, I’ve realized that nothing truly sticks unless one 
 So here I am, trying my hand at building a conversational web-app from  the ground up using LLM APIs. \
 The application would be a stripped down version of ChatGPT, without any bells and whistles, and would focus on the LLM capabilities. 
 
-Since I’m building as I go, I’ll continue updating this article with links to follow-up posts as this project evolves.
+Since I’m building as I go, I’ll continue updating this post with links to follow-up posts as this project evolves.
 
-> NOTE: Looking at how rapidly this space is evolving, I won't be surprised if this article gets outdated, or some code snippet doesn't work as expected. If that happens, feel free to reach out-or better yet, raise an issue on <a href="https://github.com/apesurd/ConversationalStack/tree/main" target="_blank">GitHub</a> 
+> NOTE: Looking at how rapidly this space is evolving, I won't be surprised if this post gets outdated, or some code snippet doesn't work as expected. If that happens, feel free to reach out-or better yet, raise an issue on <a href="https://github.com/apesurd/ConversationalStack/tree/main" target="_blank">GitHub</a> 
 
 
 ## How am going about it? 
@@ -29,7 +29,7 @@ I am breaking down (still a WIP :p) the project into multiple milestones:
 2. **Add Memory**: Incorporate conversational memory to maintain context across messages.
 3. (more to come...)
 
-Each milestone will be saved in a separate branch in the GitHub repo. I’ll share the link to each branch in its corresponding article
+Each milestone will be saved in a separate branch in the GitHub repo. I’ll share the link to each branch in its corresponding post
 
 So (wait for the cliché)... without further ado, let’s get started!
 
